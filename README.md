@@ -1,6 +1,7 @@
 
 ## Autumn Fun!
 ## Deploy Link
+https://bread-muncher.github.io/WIC-Projects-Team-3-Copy/
 ## Feature Description
 - **Mood Board:** Click various pictures to generate your own customized mood board!
 - **Fall Drink Quiz:** Answer questions about your autumn preferences to get a fall drink recommendation!
